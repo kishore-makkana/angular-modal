@@ -1,0 +1,63 @@
+{
+  "_args": [
+    [
+      "angular-modal@git://github.com/finnlabs/angular-modal.git#d45eb9ceb720b8785613ba89ba0f14f8ab197569",
+      "/tmp/d20180720-47-5qm25i/opt/openproject/frontend"
+    ]
+  ],
+  "_from": "angular-modal@git://github.com/finnlabs/angular-modal.git#d45eb9ceb720b8785613ba89ba0f14f8ab197569",
+  "_id": "angular-modal@git://github.com/finnlabs/angular-modal.git#d45eb9ceb720b8785613ba89ba0f14f8ab197569",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/angular-modal",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "angular-modal@git://github.com/finnlabs/angular-modal.git#d45eb9ceb720b8785613ba89ba0f14f8ab197569",
+    "name": "angular-modal",
+    "escapedName": "angular-modal",
+    "rawSpec": "git://github.com/finnlabs/angular-modal.git#d45eb9ceb720b8785613ba89ba0f14f8ab197569",
+    "saveSpec": "git://github.com/finnlabs/angular-modal.git#d45eb9ceb720b8785613ba89ba0f14f8ab197569",
+    "fetchSpec": "git://github.com/finnlabs/angular-modal.git",
+    "gitCommittish": "d45eb9ceb720b8785613ba89ba0f14f8ab197569"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git://github.com/finnlabs/angular-modal.git#d45eb9ceb720b8785613ba89ba0f14f8ab197569",
+  "_spec": "git://github.com/finnlabs/angular-modal.git#d45eb9ceb720b8785613ba89ba0f14f8ab197569",
+  "_where": "/tmp/d20180720-47-5qm25i/opt/openproject/frontend",
+  "author": {
+    "name": "Brian Ford"
+  },
+  "bugs": {
+    "url": "https://github.com/btford/angular-modal/issues"
+  },
+  "description": "easily add a modal to your angular app",
+  "devDependencies": {
+    "gulp": "~3.5.5",
+    "gulp-ngmin": "~0.1.2",
+    "gulp-rename": "~1.2.0",
+    "gulp-uglify": "~0.2.1",
+    "gulp-util": "~2.2.14",
+    "karma": "~0.10",
+    "karma-junit-reporter": "~0.1.0"
+  },
+  "homepage": "https://github.com/btford/angular-modal#readme",
+  "keywords": [
+    "angular",
+    "angularjs",
+    "modal"
+  ],
+  "license": "MIT",
+  "main": "modal.js",
+  "name": "angular-modal",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/btford/angular-modal.git"
+  },
+  "scripts": {
+    "test": "karma start karma.conf.js --browsers Firefox --single-run"
+  },
+  "version": "0.4.0"
+}
