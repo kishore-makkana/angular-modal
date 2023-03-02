@@ -3,6 +3,9 @@
 A modal factory service for AngularJS that makes it easy to add modals to your app.
 Forked from https://github.com/btford/angular-modal in order to enhance it to cancelOnEscape options and such
 
+###
+# Test purpose
+
 
 ## Install
 
